@@ -1,15 +1,45 @@
-# What is this?
+# Build a Website to Showcase your Resume
 
-The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
+## Overview
 
-There are two ways to go directly to a VS Code environment in your browser and start coding:
+Want to make your application stand out to recruiters and learn a few new skills in the process? This workshop will walk you through how to code a resume website. The best part is that you don't have to download any coding tools or know any programming languages to get started. 
 
-* Press the . key on any repository or pull request.
-* Swap `.com` with `.dev` in the URL. For example, this repo https://github.com/github/dev becomes http://github.dev/github/dev
+Using the power of github.dev, a service that allows you to work with files in GitHub, and GitHub Pages, you'll code a resume website using only your browser window. By the end of the workshop, you'll be able to send anyone a link where they can view your resume online. 
 
-Preview the gif below to get a quick demo of github.dev in action.
+| **Project Goal**              | Build a resume web site using HTML, CSS, and host it on GitHub pages                                    |
+| ----------------------------- | --------------------------------------------------------------------- |
+| **What will you learn**       | Basics of HTML and CSS to showcase your skills in an online resume                                        |
+| **What you'll need**          | A modern web browser like [Microsoft Edge](https://www.microsoft.com/edge?WT.mc_id=academic-51109-ornella) or [Google Chrome](https://www.google.com/chrome/) and a [GitHub account](https://github.com) |
+| **Duration**                  | 1 - 1.5 hour(s)                                                                |
+| **Just want to try the app or see the solution?** | [Solution](./solution)                         |
+| **Slides** | [Powerpoint](slides.pptx)
+| **Author** | [Ornella Altunyan](https://aka.ms/ornelladotcom)
 
-![github dev](https://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)
+## Video walk-through
 
-# Why?
-It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+[![workshop walk-through](./images/promo.png)](https://youtu.be/M2IrPFMFwx8 "workshop walk-through")
+> 🎥 Click this image to watch Ornella and Burke as they walk you through the workshop
+
+## Prerequisites
+To create your resume website, you'll need to download a modern web browser like [Microsoft Edge](https://www.microsoft.com/edge?WT.mc_id=academic-51109-ornella) or [Google Chrome](https://www.google.com/chrome/). You'll also need a [GitHub account](https://github.com/join).
+
+## Final Project
+By the end of this workshop, you'll have created a resume web site that will look like this:
+
+![resume website](./images/final-result.png)
+
+## Outline
+In this workshop, you will: 
+* [Set up your coding environment](0-setup.md)
+* [Learn basic HTML to outline your resume](1-create-html.md)
+* [Fill in your resume content](2-add-content.md)
+* [Style your resume with CSS](3-add-style.md)
+* [Create your resume website with GitHub Pages](4-creating-website.md)
+
+Let's get started!
+
+## Feedback
+
+Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
+
+[Code of Conduct](../../CODE_OF_CONDUCT.md)
